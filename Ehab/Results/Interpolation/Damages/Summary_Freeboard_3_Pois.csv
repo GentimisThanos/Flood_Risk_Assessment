@@ -1,0 +1,3 @@
+"","vars","n","mean","sd","median","trimmed","mad","min","max","range","skew","kurtosis","se"
+"Random_Depths",1,5000,-0.5568,1.55976290892764,-1,-0.653,1.4826,-3,7,10,0.635536162563129,0.44963535589738,0.0220583785989198
+"Damage",2,0,NA,NA,NA,NA,NA,Inf,-Inf,-Inf,NA,NA,NA
